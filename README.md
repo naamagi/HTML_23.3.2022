@@ -4,8 +4,6 @@
 
 Some exercises on HTML, done on 23.3.2022.
 
-Some exercises on HTML, done on 23.3.2022.
-
 ---
 
 ## Contributors
@@ -17,5 +15,6 @@ Some exercises on HTML, done on 23.3.2022.
 ## License & Copyright
 
 &copy; Naama.
- 
+
+ 
  
